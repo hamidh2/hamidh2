@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidh2)
+![Hamid's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hamidh2&show_icons=true&theme=algolia )
